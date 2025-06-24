@@ -46,3 +46,4 @@ Temporary Items
 .apdisk
 *.ffs_db
 sync.ffs_db
+.env
